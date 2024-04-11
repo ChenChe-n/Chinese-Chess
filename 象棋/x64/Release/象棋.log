@@ -1,0 +1,119 @@
+﻿  正在扫描源以查找模块依赖项...
+  mian.cpp
+  正在编译...
+  mian.cpp
+C:\Users\陈陈\source\repos\象棋\配置数据.hpp(25,45): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\配置数据.hpp(30,41): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\配置数据.hpp(77,63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\配置数据.hpp(78,63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,130): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,130): warning C4267:         with
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,130): warning C4267:         [
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,130): warning C4267:             T=int
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,130): warning C4267:         ]
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,105): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,105): warning C4267:         with
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,105): warning C4267:         [
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,105): warning C4267:             T=int
+C:\Users\陈陈\source\repos\象棋\图像.hpp(84,105): warning C4267:         ]
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(85,61): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(85,40): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(92,59): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(92,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(94,59): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(94,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(98,65): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(98,44): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(106,62): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(106,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(108,62): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\图像.hpp(108,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244:         with
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244:         [
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244:             T=float
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244:         ]
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244:         and
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244:         [
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244:             T=int
+C:\Users\陈陈\source\repos\象棋\工具.hpp(79,35): warning C4244:         ]
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244:         with
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244:         [
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244:             T=float
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244:         ]
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244:         and
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244:         [
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244:             T=int
+C:\Users\陈陈\source\repos\象棋\工具.hpp(80,35): warning C4244:         ]
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244:         with
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244:         [
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244:             T=float
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244:         ]
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244:         and
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244:         [
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244:             T=int
+C:\Users\陈陈\source\repos\象棋\工具.hpp(91,35): warning C4244:         ]
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244:         with
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244:         [
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244:             T=float
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244:         ]
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244:         and
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244:         [
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244:             T=int
+C:\Users\陈陈\source\repos\象棋\工具.hpp(92,35): warning C4244:         ]
+  (编译源文件“mian.cpp”)
+  
+C:\Users\陈陈\source\repos\象棋\mian.cpp(145,64): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\陈陈\source\repos\象棋\mian.cpp(227,213): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\陈陈\source\repos\象棋\mian.cpp(227,139): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  116 of 678 functions (17.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    62 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  象棋.vcxproj -> C:\Users\陈陈\source\repos\象棋\x64\Release\象棋.exe
